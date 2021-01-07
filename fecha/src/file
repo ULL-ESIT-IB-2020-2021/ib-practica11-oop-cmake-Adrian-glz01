@@ -1,0 +1,22 @@
+Hello! In this program we have an initial day, an initial month and an initial year.
+Knowing the year, we will determine if it is a leap year.
+Then we will increase the date day by day 19 times
+--------------------------------------------------------------------------------------
+Day: 31
+Month: 12
+Year: 1999
+Plus 1999 is not a leap year
+31/12/1999
+Following the structure to follow when writing a date, our date is: 31/12/1999
+--------------------------------------------------------------------------------------
+Finally we are going to increase the date day by day, 19 times and print the result on the screen
+01/01/2000
+02/01/2000
+03/01/2000
+04/01/2000
+05/01/2000
+06/01/2000
+07/01/2000
+08/01/2000
+09/01/2000
+10/01/2000
